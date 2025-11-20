@@ -8,4 +8,4 @@ This is Exercise 1
 
 when you push the branch to github, it will automatically update the PR  
 
-- `git fetch --prune`: will delete branch on remote 
+- `git branch -d <name>`: will delete the branch <name>
