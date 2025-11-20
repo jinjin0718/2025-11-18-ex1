@@ -6,4 +6,6 @@ This is Exercise 1
 - `git switch <name>`: switch to the <name> branch
 - `git switch -c <name>`: create <name> and switch to it in one go, from HEAD
 
-when you push the branch to github, it will automatically update the PR
+when you push the branch to github, it will automatically update the PR  
+
+- `git fetch --prune`: will delete branch on remote 
